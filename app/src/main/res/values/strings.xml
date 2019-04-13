@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearnEnglish</string>
+    <string name="learn_txt">Learn</string>
+    <string name="test_txt">Test</string>
+    <string name="question_txt">Current Question:</string>
+    <string name="one">1</string>
+    <string name="twenty">/20</string>
+    <string name="hello">Hello</string>
+    <string name="answer_word">Привет</string>
+    <string name="welcome">Welcome</string>
+    <string name="right_answers">Right Answers</string>
+    <string name="wrong_answers">Wrong Answers</string>
+</resources>

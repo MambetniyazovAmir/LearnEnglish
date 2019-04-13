@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "word_eng": "Dog",
+    "word_uzb": "It"
+  },
+  {
+    "id": "2",
+    "word_eng": "Cat",
+    "word_uzb": "Mushuk"
+  },
+  {
+    "id": "3",
+    "word_eng": "Giraffe",
+    "word_uzb": "Jirafa"
+  },
+  {
+    "id": "4",
+    "word_eng": "Goat",
+    "word_uzb": "Echki"
+  },
+  {
+    "id": "5",
+    "word_eng": "Cow",
+    "word_uzb": "Sigir"
+  },
+  {
+    "id": "6",
+    "word_eng": "Lion",
+    "word_uzb": "Arslon"
+  },
+  {
+    "id": "7",
+    "word_eng": "Cheetah",
+    "word_uzb": "Gepard"
+  },
+  {
+    "id": "8",
+    "word_eng": "Elephant",
+    "word_uzb": "Fil"
+  },
+  {
+    "id": "9",
+    "word_eng": "Kangaroo",
+    "word_uzb": "Kenguru"
+  },
+  {
+    "id": "10",
+    "word_eng": "Bull",
+    "word_uzb": "Buqa"
+  },
+  {
+    "id": "11",
+    "word_eng": "Wolf",
+    "word_uzb": "Bo'ri"
+  },
+  {
+    "id": "12",
+    "word_eng": "Tiger",
+    "word_uzb": "Yo'lbars"
+  },
+  {
+    "id": "13",
+    "word_eng": "Deer",
+    "word_uzb": "Kiyik"
+  },
+  {
+    "id": "14",
+    "word_eng": "Mouse",
+    "word_uzb": "Sichqon"
+  },
+  {
+    "id": "15",
+    "word_eng": "Hedgehoq",
+    "word_uzb": "Kipratkon"
+  },
+  {
+    "id": "15",
+    "word_eng": "Zebra",
+    "word_uzb": "Zebra"
+  },
+  {
+    "id": "16",
+    "word_eng": "Behemoth",
+    "word_uzb": "Begemot"
+  },
+  {
+    "id": "17",
+    "word_eng": "Bear",
+    "word_uzb": "Ayiq"
+  },
+  {
+    "id": "18",
+    "word_eng": "Leopard",
+    "word_uzb": "Leopard"
+  },
+  {
+    "id": "19",
+    "word_eng": "Panther",
+    "word_uzb": "Qoplon"
+  },
+  {
+    "id": "20",
+    "word_eng": "Crocodile",
+    "word_uzb": "Timsoq"
+  },
+  {
+    "id": "21",
+    "word_eng": "Monkey",
+    "word_uzb": "Maymun"
+  },
+  {
+    "id": "22",
+    "word_eng": "Rabbit",
+    "word_uzb": "Quyon"
+  },
+  {
+    "id": "23",
+    "word_eng": "Donkey",
+    "word_uzb": "Eshak"
+  },
+  {
+    "id": "24",
+    "word_eng": "Duck",
+    "word_uzb": "O'rdak"
+  },
+  {
+    "id": "25",
+    "word_eng": "Goose",
+    "word_uzb": "G'oz"
+  },
+  {
+    "id": "26",
+    "word_eng": "Hare",
+    "word_uzb": "Quyon"
+  },
+  {
+    "id": "27",
+    "word_eng": "Penguin",
+    "word_uzb": "Pingvin"
+  },
+  {
+    "id": "28",
+    "word_eng": "Horse",
+    "word_uzb": "Ot"
+  },
+  {
+    "id": "29",
+    "word_eng": "Sheep",
+    "word_uzb": "Qo'y"
+  },
+  {
+    "id": "30",
+    "word_eng": "Pig",
+    "word_uzb": "Cho'chqa"
+  },
+  {
+    "id": "31",
+    "word_eng": "Calf",
+    "word_uzb": "Buzoq"
+  },
+  {
+    "id": "32",
+    "word_eng": "Lamb",
+    "word_uzb": "Qo'zichoq"
+  },
+  {
+    "id": "33",
+    "word_eng": "Foal",
+    "word_uzb": "Toychoq"
+  },
+  {
+    "id": "34",
+    "word_eng": "Camel",
+    "word_uzb": "Tuya"
+  },
+  {
+    "id": "35",
+    "word_eng": "Squirrel",
+    "word_uzb": "Olmaxon"
+  },
+  {
+    "id": "36",
+    "word_eng": "Tortoise",
+    "word_uzb": "Toshbaqa"
+  }
+]
