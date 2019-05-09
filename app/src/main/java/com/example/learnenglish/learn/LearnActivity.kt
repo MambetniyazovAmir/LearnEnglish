@@ -29,7 +29,7 @@ class LearnActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_learn)
         dictionaryDao = DictionaryDatabase.getInstance(this).dictionaryDao()
-        val word = dictionaryDao.getWordById(1)
+
         k = (0..20).random()
         allWords = dictionaryDao.getAllWords()
         wordEng.text = allWords[k].wordEng

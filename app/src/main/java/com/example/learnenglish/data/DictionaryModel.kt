@@ -18,4 +18,5 @@ data class DictionaryModel(
     @ColumnInfo(name = "word_uzb")
     @SerializedName("word_uzb")
     var wordUzb: String?
+
 )
